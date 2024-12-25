@@ -64,6 +64,10 @@ The project will be broken up into milestones for different aspects of its devel
 
 After each class, students will submit a short reaction text via Canvas, detailing any questions, or summarizing what they learned in the class. These are always due on the day after class.
 
+### Expectation for Work Outside the Classroom
+
+Students should expect to spend roughly 6 hours each week on supplemental work in this course. This may include reading assignments, programming assignments, writing assignments, research, etc.
+
 ## Grading
 
 The grade for this course will be determined according to the following:
@@ -86,11 +90,17 @@ Letter grades for the entire course will be assigned as follows:
 | C | 2.00 | 70% - 74.99% |
 | F | 0.00 | 0% - 69.99% |
 
+Grade of W
+The grade of W may be issued by the Office of the Registrar to a student who officially withdraws from a course within the applicable deadline. There is no academic penalty, but the grade will appear on the student transcript.
+
+Grade of Z
+The grade of Z is issued by an instructor to a student who has not attended or not completed all required work in a course but did not officially withdraw before the withdrawal deadline. It differs from an “F,” which would indicate that the student technically completed requirements but that the level of work did not qualify for a passing grade.
+
 ## Required Materials
 
-- A GitHub account.
-- A notebook (digital or physical) for sketching ideas that can be included in write-ups.
-- A Laptop
+- A GitHub account: this is where we will do most of the work for this course.
+- A notebook (digital or physical) for sketching ideas that can be included in write-ups, projects, etc.
+- A laptop or other kind of personal computer to access GitHub.
 
 ## Optional
 
@@ -188,6 +198,53 @@ In keeping with the university’s policy of providing equal access for students
 - Reading: Cosmotechnics, Unknowns, ChatGPT and Eschatology
 
 ### Week 15 (2025/05/07)
-- Final Presentations
+- Project Presentations
 
 ---
+
+## Course Policies
+
+### Responsibility
+Students are responsible for all assignments, even if they are absent. Late assignments, failure to complete assignments, lack of preparedness for in-class discussions or presentations will jeopardize your successful completion of this course.
+
+### Participation
+Class participation is an essential part of class and includes: keeping up with reading, assignments, projects, contributing meaningfully to class discussions and coming to class regularly and on time. Participation notes will be a part of the grade and must be submitted via Canvas every week after lecture.
+
+### Attendance
+Parsons’ attendance guidelines were developed to encourage students’ success in all aspects of their academic programs. Full participation is essential to the successful completion of coursework and enhances the quality of the educational experience for all, particularly in courses where group work is integral; thus, Parsons promotes high levels of attendance. Students are expected to attend classes regularly and promptly.
+
+While attendance is just one aspect of active participation, absence from a significant portion of class time may prevent the successful attainment of course objectives. A significant portion of class time is here defined as the equivalent of three weeks, or 20%, of class time. Students may be asked to withdraw from a course if habitual absenteeism or tardiness has a negative impact on the class environment.
+
+### Canvas
+Use of Canvas will be an important resource for this class. Students should check it for announcements, readings, assignments and lecture notes before and after class.
+
+### Delays
+In rare instances, the instructor may be delayed arriving to class. If the instructor has not arrived by the time class is scheduled to start, you must wait a minimum of thirty minutes. In the event that the instructor will miss class entirely, an email will be sent indicating your assignment for the next class meeting.
+
+### Electronic Devices
+The use of electronic devices (phones, tablets, laptops, cameras, etc.) is permitted when the device is being used in relation to the course's work. All other uses are prohibited in the classroom and devices should be turned off before class starts.
+
+### Academic Honesty and Integrity
+Compromising your academic integrity may lead to serious consequences, including (but not limited to) one or more of the following: failure of the assignment, failure of the course, academic warning, disciplinary probation, suspension from the university, or dismissal from the university.
+
+Students are responsible for understanding the University’s policy on academic honesty and integrity and must make use of proper citations of sources for writing papers, creating, presenting, and performing their work, taking examinations, and doing research. It is the responsibility of students to learn the procedures specific to their discipline for correctly and appropriately differentiating their own work from that of others. The full text of the policy, including adjudication procedures, is found at
+[http://www.newschool.edu/policies/](http://www.newschool.edu/policies/). Resources regarding what plagiarism is and how to avoid it can be found on the [Learning Center website](http://www.newschool.edu/university-learning-center/student-resources/).
+
+The New School views "academic honesty and integrity" as the duty of every member of an academic community to claim authorship for his or her own work and only for that work, and to recognize the contributions of others accurately and completely. This obligation is fundamental to the integrity of intellectual debate, and creative and academic pursuits. Academic honesty and integrity includes accurate use of quotations, as well as appropriate and explicit citation of sources in instances of paraphrasing and describing ideas, or reporting on research findings or any aspect of the work of others (including that of faculty members and other students). Academic dishonesty results from infractions of this "accurate use". The standards of academic honesty and integrity, and citation of sources, apply to all forms of academic work, including submissions of drafts of final papers or projects. All members of the University community are expected to conduct themselves in accord with the standards of academic honesty and integrity. Please see the complete policy in the Parsons Catalog.
+
+All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a penalized grade.
+
+If there are questions about a specific situation, please ask.
+
+
+XXX Special Notes XXX
+
+---
+
+## Academic Accommodations
+
+If you are a student with a disability who is requesting accommodations, please visit The New School’s Student Disability Services  [accommodations website](https://www.newschool.edu/student-disability-services/students-accommodations/), and contact them through Starfish, phone (212.229.5626) or email ([studentdisability@newschool.edu](mailto:studentdisability@newschool.edu)). You must be registered with SDS to receive accommodations. General information about Student Disability Services can be found at [https://www.newschool.edu/student-disability-services/](https://www.newschool.edu/student-disability-services/). Student Disability Services is located on 63 Fifth Avenue, room 425.
+
+## Statement of Equity, Inclusion and Social Justice
+
+As students, artists, designers, educators, and cultural producers, we must acknowledge the lineages of white supremacy, racial discrimination, and other forms of systemic oppression that exist within our society in the U.S. and abroad. In the School of Art, Media & Technology (AMT), we are committed to creating a more inclusive, equitable and anti-racist community. We aim to support and advocate for the needs of all AMT students, staff and faculty across all identities of race, gender, sexual orientation, disability, age, religion, culture, citizenship, or socio-economic status. We will stand in solidarity with marginalized communities who have been historically excluded from institutions, including Black, Indigenous, Latinx, AAPI (Asian, Asian American and Pacific Islander), People of Color, Queer, and Trans folks, and aim to center their narratives and practices within our learning environment. We recognize the limitations of language that can’t envelop the breadth of all intersectional identities, and as such, we are committed to advancing equity, respect, and thoughtfulness within our teaching pedagogy, curriculum, classrooms and across AMT.
