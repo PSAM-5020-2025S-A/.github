@@ -118,8 +118,8 @@ Additional material covered in the course can be found in these books:
 - Machine Learning for Audio, Image and Video Analysis (MLAIVA) by Francesco Camastra, Alessandro Vinciarelli
 - Deep Learning for Vision Systems (DLVS) by Mohamed Elgendy
 - Hands-On Image Processing with Python (HOIPP) by Sandipan Dey
-- Deep Learning (DL) by Ian Goodfellow, Yoshua Bengio, Aaron Courville
-- Dive into Deep Learning (D2L) by Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola
+- [Deep Learning](https://www.deeplearningbook.org/) (DL) by Ian Goodfellow, Yoshua Bengio, Aaron Courville
+- [Dive into Deep Learning](https://d2l.ai/) (D2L) by Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola
 
 These are available digitally from the library.
 
