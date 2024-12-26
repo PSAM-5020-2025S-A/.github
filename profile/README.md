@@ -108,9 +108,20 @@ The grade of Z is issued by an instructor to a student who has not attended or n
 
 ## Textbooks
 
-All of these will be available digitally:
+The main textbooks used in the course are:
 
-XXX BOOKS XXX
+- Data Science and Analytics with Python (DSAP) by Jesús Rogel-Salazar
+- Deep Learning with PyTorch (DLPT) by Thomas Viehmann, Eli Stevens, Luca Pietro Giovanni Antiga
+
+Additional material covered in the course can be found in these books:
+
+- Machine Learning for Audio, Image and Video Analysis (MLAIVA) by Francesco Camastra, Alessandro Vinciarelli
+- Deep Learning for Vision Systems (DLVS) by Mohamed Elgendy
+- Hands-On Image Processing with Python (HOIPP) by Sandipan Dey
+- Deep Learning (DL) by Ian Goodfellow, Yoshua Bengio, Aaron Courville
+- Dive into Deep Learning (D2L) by Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola
+
+These are available digitally from the library.
 
 Additional reading materials will be distributed throughout the semester.
 
