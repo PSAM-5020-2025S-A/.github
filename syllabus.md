@@ -113,15 +113,18 @@ The main textbooks used in the course are:
 - Data Science and Analytics with Python (DSAP) by Jesús Rogel-Salazar
 - Deep Learning with PyTorch (DLPT) by Thomas Viehmann, Eli Stevens, Luca Pietro Giovanni Antiga
 
+A good Python reference is:
+- [Think Python](https://allendowney.github.io/ThinkPython/) (TP) by Allen B. Downey
+
 Additional material covered in the course can be found in these books:
 
 - Machine Learning for Audio, Image and Video Analysis (MLAIVA) by Francesco Camastra, Alessandro Vinciarelli
 - Deep Learning for Vision Systems (DLVS) by Mohamed Elgendy
-- Hands-On Image Processing with Python (HOIPP) by Sandipan Dey
+- [Think Stats](https://allendowney.github.io/ThinkStats/) (TS) by Allen B. Downey
 - [Deep Learning](https://www.deeplearningbook.org/) (DL) by Ian Goodfellow, Yoshua Bengio, Aaron Courville
 - [Dive into Deep Learning](https://d2l.ai/) (D2L) by Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola
 
-These are available digitally from the library.
+These are available freely online or digitally from our library through Canvas.
 
 Additional reading materials will be distributed throughout the semester.
 
@@ -179,7 +182,7 @@ In keeping with the university’s policy of providing equal access for students
 ### Week 08 (2025/03/19)
 - Dimensionality Reduction
 - PCA
-- "Evaluation Functions: Accuracy, Precision, Recall, Confusion"
+- Evaluation Functions: Accuracy, Precision, Recall, Confusion
 
 ### Week 09 (2025/03/26)
 - Machine Learning Review
