@@ -2,10 +2,9 @@
 
 # PSAM 5020 | Machine Learning<br>Spring 2025, Section A
 
-- Instructor: [Thiago Hersan](https://thiagohersan.com)
-- email: [thiago@newschool.edu](mailto:thiago@newschool.edu)
-- [Canvas](https://xxxxxxx.xxxxxxxx)
-- GitHub: [https://github.com/PSAM-5020-2025S-A](https://github.com/PSAM-5020-2025S-A)
+- Instructor: [Thiago Hersan](https://thiagohersan.com) (thiago\@newschool\.edu)
+- Course [Canvas](https://canvas.newschool.edu/courses/1825916)
+- Course [GitHub](https://github.com/PSAM-5020-2025S-A)
 - Class Meeting: Wednesdays 12:10pm - 2:50pm, Parsons 2 W 13th, Room 501
 - Office Hours: TBA
 
@@ -72,23 +71,23 @@ Students should expect to spend roughly 6 hours each week on supplemental work i
 
 The grade for this course will be determined according to the following:
 
-| Activity | % of Final Grade |
-| --- | --- |
-| Programming Assignments | 50% |
+| Activity | Final Grade % |
+| :--- | :--- |
+| Programming Assignments &nbsp;&nbsp;&nbsp;&nbsp; | 50% |
 | Participation | 5% |
 | Reading Responses | 15% |
 | Final Project | 30% |
 
 Letter grades for the entire course will be assigned as follows:
 
-| Letter Grade | Points | Overall Percent |
-| --- | --- | --- |
-| A | 4.00 | 90% - 100% |
-| B+ | 3.33 | 85% - 89.99% |
-| B | 3.00 | 80% - 84.99% |
-| C+ | 2.33 | 75% - 79.99% |
-| C | 2.00 | 70% - 74.99% |
-| F | 0.00 | 0% - 69.99% |
+| Overall Percent &nbsp;&nbsp;&nbsp;&nbsp; | Letter Grade |
+| :--- | :--- |
+| 90% - 100% | A  |
+| 85% - 89%  | B+ |
+| 80% - 84%  | B  |
+| 75% - 79%  | C+ |
+| 70% - 74%  | C  |
+| 0% - 69%   | F  |
 
 Grade of W
 The grade of W may be issued by the Office of the Registrar to a student who officially withdraws from a course within the applicable deadline. There is no academic penalty, but the grade will appear on the student transcript.
